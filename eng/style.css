@@ -1,0 +1,25 @@
+body {
+    background-color: #D0D0D0;
+    font-family: Arial;
+    font-size: 18px;
+    margin: 0;
+    padding: 0 10px;
+}
+p {
+    margin: 10px 0;
+    padding: 15px;
+}
+.rus {
+    display: none;
+    background-color: #fff;
+    color: #4E4E4E;
+    border-left: 3px #D00000 solid;
+}
+.eng {
+    cursor: pointer;
+    background-color: #EFFFE8;
+    border-left: 1px #000 solid;
+}
+.focus {
+    background-color: #FFFBE5;
+}
